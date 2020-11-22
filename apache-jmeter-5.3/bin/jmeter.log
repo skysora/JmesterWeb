@@ -1,0 +1,45 @@
+2020-11-22 21:49:20,831 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_TW_#Hant
+2020-11-22 21:49:20,869 INFO o.a.j.u.JMeterUtils: Could not find resources for 'zh_TW_#Hant', using 'zh_TW'
+2020-11-22 21:49:20,870 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-11-22 21:49:20,871 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-11-22 21:49:20,872 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: Version 5.3
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: java.version=15
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: os.arch=x86_64
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: os.version=10.15.7
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: java.awt.headless=null
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: Max memory     =2147483648
+2020-11-22 21:49:20,873 INFO o.a.j.JMeter: Available Processors =8
+2020-11-22 21:49:20,887 INFO o.a.j.JMeter: Default Locale=中文 (繁體，台灣)
+2020-11-22 21:49:20,888 INFO o.a.j.JMeter: JMeter  Locale=中文 (繁體，台灣)
+2020-11-22 21:49:20,888 INFO o.a.j.JMeter: JMeterHome=/Users/sora/Desktop/apache-jmeter-5.3
+2020-11-22 21:49:20,888 INFO o.a.j.JMeter: user.dir  =/Users/sora/Desktop/apache-jmeter-5.3/bin
+2020-11-22 21:49:20,888 INFO o.a.j.JMeter: PWD       =/Users/sora/Desktop/apache-jmeter-5.3/bin
+2020-11-22 21:49:20,890 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: soradeMacBook-Pro.local FullName: localhost
+2020-11-22 21:49:21,411 INFO o.a.j.JMeter: Setting LAF to: laf:javax.swing.plaf.metal.MetalLookAndFeel
+2020-11-22 21:49:22,774 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-11-22 21:54:17,649 INFO o.a.j.s.FileServer: Default base='/Users/sora/Desktop/apache-jmeter-5.3/bin'
+2020-11-22 21:54:17,652 INFO o.a.j.g.a.Load: Loading file: /Users/sora/Desktop/HTTP 要求.jmx
+2020-11-22 21:54:17,653 INFO o.a.j.s.FileServer: Set new base='/Users/sora/Desktop'
+2020-11-22 21:54:17,834 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-11-22 21:54:17,860 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-11-22 21:54:17,861 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-11-22 21:54:17,863 INFO o.a.j.s.SaveService: Loading file: /Users/sora/Desktop/HTTP 要求.jmx
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-11-22 21:54:17,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-11-22 21:55:45,427 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-11-22 21:55:45,429 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-11-22 21:55:45,429 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-11-22 21:55:45,431 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-11-22 21:55:45,431 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-11-22 21:55:45,474 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-11-22 21:55:45,525 INFO o.a.j.e.StandardJMeterEngine: No enabled thread groups found
+2020-11-22 21:55:45,526 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-11-22 21:55:45,528 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
